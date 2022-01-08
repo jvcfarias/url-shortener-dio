@@ -1,19 +1,12 @@
-# url-shortener-dio
+<h1>Fork criado como parte de projeto prático do bootcamp para ser fullstack da eduzz.</h1> 
 
-Projeto criado junto da DIO para construção de um Encurtador de URL.
+<h2>O projeto original teve como intuito a construção de uma API para encurtamento de URLs.</h2>
 
-## Rodando o projeto
+<h3>Aplicação de conhecimento acumulado de outras habilidades previamente adquiridas ao longo do bootcamp, sendo elas: </h3>
+<ul>Node.js</ul>
+<ul>MongoDB</ul>
+<ul>TypeScript</ul>
 
-- `npm install`
-- `npm run build`
-- `npm run dev`
-
-Algumas informações sobre os vídeos:
-
-- Editor de Texto usado: VSCode
-  - Color Theme do editor: Material UI e Bluloco Dark
-- Programa para verificar as requests: Insomnia
-
-Informações pessoais:
-
-- Meu linkedin: https://www.linkedin.com/in/alexiapereira/
+Fique à vontade para entrar em contato comigo nas minhas redes: 
+<ul> https://www.linkedin.com/in/jvcfarias </ul>
+  
